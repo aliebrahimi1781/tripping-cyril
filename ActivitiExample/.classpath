@@ -14,5 +14,20 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="libs/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="libs/activiti-cfg.jar"/>
+	<classpathentry kind="lib" path="libs/activiti-engine-5.16.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-email-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/jaxb-2.3.jar"/>
+	<classpathentry kind="lib" path="libs/jaxb-impl-2.2.7.jar"/>
+	<classpathentry kind="lib" path="libs/livetribe-jsr223-2.0.7.jar"/>
+	<classpathentry kind="lib" path="libs/mail-1.4.3.jar"/>
+	<classpathentry kind="lib" path="libs/mybatis-2.3.5.jar"/>
+	<classpathentry kind="lib" path="libs/spring-asm-3.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-beans-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/spring-core-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="libs/stax-3.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/vaadin-6.8.7.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
