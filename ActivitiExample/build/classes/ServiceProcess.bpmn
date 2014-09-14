@@ -3,7 +3,7 @@
   <process id="myProcess" name="My process" isExecutable="true">
     <startEvent id="startevent" name="Start"></startEvent>
     <endEvent id="endevent" name="End"></endEvent>
-    <serviceTask id="servicetask" name="ServiceJava"></serviceTask>
+    <serviceTask id="servicetask" name="ServiceJava" activiti:expression="Assignee" activiti:resultVariableName="kermit"></serviceTask>
     <exclusiveGateway id="exclusivegateway1" name="Exclusive Gateway"></exclusiveGateway>
     <userTask id="usertask1" name="User Task"></userTask>
     <userTask id="usertask2" name="User Task"></userTask>
